@@ -1,0 +1,14 @@
+C:\A folder\CPIN Assignment\Consoles\Final Project\bin\Debug\net8.0\Final Project.exe
+C:\A folder\CPIN Assignment\Consoles\Final Project\bin\Debug\net8.0\Final Project.deps.json
+C:\A folder\CPIN Assignment\Consoles\Final Project\bin\Debug\net8.0\Final Project.runtimeconfig.json
+C:\A folder\CPIN Assignment\Consoles\Final Project\bin\Debug\net8.0\Final Project.dll
+C:\A folder\CPIN Assignment\Consoles\Final Project\bin\Debug\net8.0\Final Project.pdb
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfoInputs.cache
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfo.cs
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.csproj.CoreCompileInputs.cache
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.dll
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\refint\Final Project.dll
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.pdb
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\Final Project.genruntimeconfig.cache
+C:\A folder\CPIN Assignment\Consoles\Final Project\obj\Debug\net8.0\ref\Final Project.dll
