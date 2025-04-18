@@ -1,0 +1,2 @@
+Game 1: Player 1 wins = 1, Player 2/Computer wins = 0
+Game 2: Player 1 wins = 2, Player 2/Computer wins = 0

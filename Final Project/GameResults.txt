@@ -1,1 +1,11 @@
-Game 4: Player 1 wins = 2, Player 2/Computer wins = 2
+Multiplayer
+Total Games 0
+Player 1 wins = 0, Player 2 wins = 0
+Player 1 win percentage: NaN%
+Player 2 win percentage: NaN%
+
+Player vs Computer
+Total Games 3
+Player 1 wins = 2, Computer wins = 1
+Player 1 win percentage: 66.67%
+Player 2 win percentage: 33.33%
